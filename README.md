@@ -1,2 +1,1 @@
-# Hi nigga say it BACK 
-# im on the new branch student
+# Learned to push using command line
